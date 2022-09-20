@@ -10,5 +10,7 @@ Vincent Akachukwu
 
 ## Contacts
 you can contact me through the following
+
 [twitter](https://twitter.com/maxvincy1)
+
 [linkedin](https://www.linkedin.com/in/Vincent Akachukwu)
