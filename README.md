@@ -13,4 +13,4 @@ you can contact me through the following
 
 [twitter](https://twitter.com/maxvincy1)
 
-[linkedin](https://www.linkedin.com/in/Vincent Akachukwu)
+[linkedin](https://www.linkedin.com/in/vincent-akachukwu-271815239)
