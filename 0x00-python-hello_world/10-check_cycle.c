@@ -17,7 +17,7 @@ int check_cycle(listint_t *list)
 	bicycle = list->next;
 	car = list->next->next;
 
-	while (bicycle && car && cat->next)
+	while (bicycle && car && car->next)
 	{
 		if (bicycle == car)
 			return (1);
